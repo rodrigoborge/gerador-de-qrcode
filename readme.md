@@ -4,4 +4,4 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <br>
-<p>Para visualizar o projeto visite a <a href="https://rodrigoborge.github.io/gerador-de-qrcode/">página demo</a>.</p>
+<p>Para visualizar o projeto visite a página<a href="https://rodrigoborge.github.io/gerador-de-qrcode/"> demo</a>.</p>
